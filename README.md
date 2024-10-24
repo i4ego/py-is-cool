@@ -4,3 +4,4 @@
   <img src="https://img.shields.io/github/license/FeliBog/PYthon-System?style=plastic"/>
   <img src="https://tokei.rs/b1/github/FeliBog/PYthon-System"/>
 </div>
+<div align="center"><img src="https://raw.githubusercontent.com/FeliBog/PYthon-System/refs/heads/main/images/py-system.png" alt="Python-System" width="800" height="400"></div>
