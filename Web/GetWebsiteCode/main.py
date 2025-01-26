@@ -1,4 +1,4 @@
-import requests
+import requests #please, download package requests — pip install requests
 while 1:
     try:
         WebSite = f"""http://{input().replace("https://", "").replace("http://", "")}"""
