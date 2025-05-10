@@ -3,5 +3,4 @@
   <img src="https://img.shields.io/github/repo-size/FeliBog/py-is-cool?style=plastic"/>
   <img src="https://img.shields.io/github/license/FeliBog/py-is-cool?style=plastic"/>
   <img src="https://tokei.rs/b1/github/FeliBog/py-is-cool"/>
-  <img src="https://img.shields.io/github/v/release/FeliBog/py-is-cool?style=plastic"/>
 </div>
