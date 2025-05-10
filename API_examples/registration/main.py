@@ -14,7 +14,7 @@ async def reg(res: response):
     id = create_id(0, 100000)
   users[id] = res
   return id
-@app.get('/') #userlist (send POST request to http://127.0.0.1:8000/ )
+@app.get('/') #userlist (send GET request to http://127.0.0.1:8000/ )
 async def getusers():
     return users
 if __name__ == '__main__': #running API
